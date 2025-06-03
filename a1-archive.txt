@@ -1,4 +1,5 @@
 Archivo actividad 1 - Hernandez Ramirez Adrian 
 Parrafo 2 desde main
 
-Parafo #1 desde ususario2
+Parafo #1 desde usuario2
+parado #2 desde usuario2
