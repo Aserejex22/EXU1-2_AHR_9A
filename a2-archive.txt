@@ -2,5 +2,12 @@ Archivo de la actividad 2 - Adrian Hernandez Ramirez
 Parrafo 2 main
 Parrafo 3 main
 
+<<<<<<< HEAD
 Parrafo #1 user1
 Parrafo #2 user1
+=======
+Parrafo #1 user2
+Parrafo #2 user2
+Parrafo #3 user2
+Parrafo #1 user3
+>>>>>>> a2-develop
